@@ -1,10 +1,14 @@
 import express from 'express';
 
+import './config/dotenv.js';
+
 
 import giftRouter from './routes/gifts.js'
 
 
 const app = express();
+
+app.use(express.static('public'));
 
 app.use('/public', express.static('./public'));
 

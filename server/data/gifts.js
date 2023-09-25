@@ -2,7 +2,7 @@ const giftData = [
     {
         "id": 1,
         "name": "Disco Ball Candle",
-        "pricePoint": "$",
+        "pricePoint": 1,
         "audience": "Candle Lovers",
         "image":"https://tinyurl.com/39xc9h6y",
         "description":"A party in a candle",
@@ -12,7 +12,7 @@ const giftData = [
     {
         "id": 2,
         "name": "Lego Flower Bouquet Kit",
-        "pricePoint": "$",
+        "pricePoint": 1,
         "audience": "Green Thumbs",
         "image":"https://tinyurl.com/ydpv2bt9",
         "description":"A gift and fun activity to do together",
@@ -22,7 +22,7 @@ const giftData = [
     {
         "id": 3,
         "name": "Nintendo Switch Lite",
-        "pricePoint": "$$",
+        "pricePoint": 1,
         "audience": "Gamers",
         "image":"https://tinyurl.com/2cdfe59x",
         "description":"A gift for gamers on-the-go",
@@ -32,7 +32,7 @@ const giftData = [
     {
         "id": 4,
         "name": "Nike Panda Dunks",
-        "pricePoint": "$$",
+        "pricePoint": 1,
         "audience": "Sneakerheads",
         "image":"https://tinyurl.com/y9bzv8xd",
         "description":"A fan-favorite black and white color-blocking sneaker",
@@ -42,7 +42,7 @@ const giftData = [
     {
         "id": 5,
         "name": "Razer Kitty Headset",
-        "pricePoint": "$$",
+        "pricePoint": 1,
         "audience": "Gamers",
         "image":"https://tinyurl.com/4pt84wry",
         "description":"Create the purrfect gaming look with your own killer kitty style",
